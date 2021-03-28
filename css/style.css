@@ -20,3 +20,8 @@ html {
 #container p {
     font-size: 1.5rem;
 }
+#cabecera {
+    font-size: 4rem;
+    color: darkgoldenrod;
+    text-align: right;
+}
