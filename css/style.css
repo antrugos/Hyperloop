@@ -22,6 +22,15 @@ html {
 }
 #cabecera {
     font-size: 4rem;
-    color: darkgoldenrod;
-    text-align: right;
+    font-weight: bold;
+    background: #33A;
+    margin: 0;
+    color: whitesmoke;
+    padding: 0.5rem;
+    box-shadow: 0rem 0.5rem 3rem 0rem rgba(0,0,0,0.6);
+}
+#cabecera #tagline {
+    font-size: 1.5rem;
+    font-weight: normal;
+    padding: 0 0 0 3rem;
 }
