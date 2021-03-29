@@ -1,7 +1,11 @@
 body {
+    background: #1e1f24;
     color: #333;
-    text-align: left;
+    text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.6rem;
+    margin: 0;
+    padding: 0;
 }
 html {
     font-size: 62.5%;
@@ -16,21 +20,30 @@ html {
 #container h1 {
     font-size: 2.2rem;
     color: #6d03d0;
+    margin: 0 2rem;
 }
 #container p {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 #cabecera {
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: bold;
-    background: #33A;
+    background: #37488b;
     margin: 0;
     color: whitesmoke;
-    padding: 0.5rem;
+    padding: 1.5rem;
     box-shadow: 0rem 0.5rem 3rem 0rem rgba(0,0,0,0.6);
 }
 #cabecera #tagline {
     font-size: 1.5rem;
     font-weight: normal;
     padding: 0 0 0 3rem;
+}
+#cabecera #logo {
+    width: 7rem;
+    vertical-align: middle;
+}
+#post {
+    padding: 1rem;
+    background: white;
 }
