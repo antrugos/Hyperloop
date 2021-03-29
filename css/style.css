@@ -34,3 +34,10 @@ html {
     font-weight: normal;
     padding: 0 0 0 3rem;
 }
+footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 0.5rem;
+}
