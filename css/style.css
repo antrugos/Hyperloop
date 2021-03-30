@@ -23,10 +23,10 @@ html {
 #cabecera {
     font-size: 4rem;
     font-weight: bold;
-    background: #33A;
+    background: url("../imagenes/Logo1.jpg") 10px 10px;
     margin: 0;
-    color: whitesmoke;
-    padding: 0.5rem;
+    color: blue;
+    padding: 1rem 10rem;
     box-shadow: 0rem 0.5rem 3rem 0rem rgba(0,0,0,0.6);
 }
 #cabecera #tagline {
