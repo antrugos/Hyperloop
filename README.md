@@ -9,6 +9,7 @@ Un blog hecho para aprender [git y github](http://https://platzi.com/clases/git-
 * Flujo de trabajo en GIt
 * Uso de buenas prácticas
 * Un par de robotzuelas 
-* Lo mejor de el ing Freddy Vega 
+* Lo mejor de el ing Freddy Vega
+* Creado por Susanahoria
 
 Un gran recordatorio a tener en cuenta es  ** Este readme.md es un chiste ve** ya que es un ejemplo, mejor [ve al curso ois.](http://https://platzi.com/clases/git-github/ "ve al curso ois.")
